@@ -18,7 +18,5 @@ def scrap(url):
             print("Invalid URL or request failed.")
 
         i = input("DO YOU WANT TO SCRAP AGAIN......Y/N: ")
-
-
 url = input("Enter URL: ")
 scrap(url)
