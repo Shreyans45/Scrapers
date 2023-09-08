@@ -1,6 +1,5 @@
 import requests as req
 
-
 def scrap(url):
     i = input("DO YOU WANT TO SCRAP ......Y/N: ")
     while i.lower() == "y":
