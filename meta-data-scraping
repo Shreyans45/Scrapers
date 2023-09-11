@@ -1,4 +1,4 @@
 import bs4
-import requests
+import requests as req
 import nltk 
-import pandas
+import pandas as pd
